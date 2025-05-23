@@ -30,10 +30,6 @@ path = 'contracts/risk-adjustment.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.risk-adjustment_]
-path = 'contracts/risk-adjustment_.clar'
-clarity_version = 2
-epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 

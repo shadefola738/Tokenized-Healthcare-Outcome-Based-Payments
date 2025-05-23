@@ -9,3 +9,17 @@ M
 contracts/patient-cohort.clar,b/1/b18bd8e2c120686b6d8397a98a3e460a1873026f
 T
 $contracts/provider-verification.clar,9/0/90e04ec54ebccb20c9508bc713734ad7f3a6965e
+N
+contracts/risk-adjustment.clar,4/8/484e3772aaa53a982c10012e25cc82cdb8091bc0
+Q
+!tests/outcome-measurement.test.ts,c/2/c280e885dadb2f85359ed1589e1c20ed282f77e3
+L
+tests/patient-cohort.test.ts,e/0/e0531da9dafb0844b5f108f0340ca75d465b19ca
+Q
+!tests/payment-calculation.test.ts,0/5/053100f9d8cbb10a19122675e923dbd1d3962dfa
+S
+#tests/provider-verification.test.ts,8/6/860d95ca41eac302534a801b7c132a241e18e336
+M
+tests/risk-adjustment.test.ts,4/c/4cbc141512a0e2e45322026343e5e8d465761348
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
