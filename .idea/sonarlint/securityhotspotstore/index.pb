@@ -7,3 +7,5 @@ R
 "contracts/payment-calculation.clar,e/2/e24f8ded0a8193c963e3a8f203b72a4d9d53d79e
 M
 contracts/patient-cohort.clar,b/1/b18bd8e2c120686b6d8397a98a3e460a1873026f
+T
+$contracts/provider-verification.clar,9/0/90e04ec54ebccb20c9508bc713734ad7f3a6965e
